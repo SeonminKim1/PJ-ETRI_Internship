@@ -30,6 +30,10 @@ ETRI 동계 인턴쉽 연구 내용 정리
    
   - http://download.videolan.org/pub/x264/snapshots/ // x264 
 
+- 명령어
+  - (img) ./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg
+  - (webcam) ./darknet detector demo cfg/coco.data cfg/yolov3-tiny.cfg yolov3-tiny.weights -c 0
+
 - 기타 참고링크
   - https://blog.ayukawa.kr/archives/1592 // cpu monitoring
   - https://blog.ayukawa.kr/archives/1517 // 라즈베리파이 가상망 와이파이 접속
