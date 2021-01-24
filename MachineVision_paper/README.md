@@ -1,0 +1,19 @@
+# 머신비전 Paper 작성 관련 내용
+
+## 데이터셋
+- https://www.kamp-ai.kr/front/dataset/AiDataDetail.jsp?AI_SEARCH=&page=1&DATASET_SEQ=12&EQUIP_SEL=&FILE_TYPE_SEL=&GUBUN_SEL=&WDATE_SEL=
+
+## 참고링크
+- http://www.hellot.net/new_hellot/magazine/magazine_read.html?code=201&sub=003&idx=49863
+- http://procon.co.kr/bbs/board.php?bo_table=magazine_new&wr_id=332 // 인공지능과 머신비전의 결합을 통한 공장자동화
+- https://www.industrynews.co.kr/news/articleView.html?idxno=38246 // 코그넥스 - 딥러닝 머신비전사례
+- https://www.industrynews.co.kr/news/articleList.html?sc_section_code=S1N2&view_type=sm // 제조 - industry 뉴스
+
+## 참고 Paper
+- Explainable Artificial Intelligence for Root Cause Failure Analysis in Manufacturing System CNN & CAM - 조윤상
+- (2017, 정보 및 제어 논문집, 대한전기학회)딥러닝 기반 머신 비전을 이용한 결함 검출
+- (2018, 한국엔터프라이즈아키텍쳐학회) 영상 데이터 기반의 CNN을 이용한 제조 공정 데이터 분류 적용에 대한 연구
+- (2018)Convolutional Encoder-Decoder를 이용한 머신비전 영상의 픽셀 단위 검사에 관한 연구
+- (2019, 제어로봇시스템학회) FPGA 기반의 불량 기어 검사 가속화 시스템 설계
+- (2020, 대한전기학회 저널)결함 검출을 위한 임베디드 딥러닝 시스템
+- (2020, 한국비파괴검사학회지) 딥러닝 알고리즘을 이용한 머신 비전 기반 불량 검출 연구
